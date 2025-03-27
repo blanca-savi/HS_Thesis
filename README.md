@@ -10,7 +10,7 @@ potential negative consequences within the theoretical context of deployment, an
 ideal practices to reduce such issues.
 
 ### **Folder description**
-- **Dataset**: This folder contains the HateXplain dataset.
+- **Dataset**: This folder contains the [HateXplain](https://github.com/hate-alert/HateXplain) dataset.
 - **code**: This folder contains the code files
   - **models/**: Contains fine-tuned models 
   - **results/**: Contains two jupyter notebooks to visualize the results. 
