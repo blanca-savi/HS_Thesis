@@ -9,6 +9,9 @@ analysis. The ethical analysis explores the values embedded in the models’ des
 potential negative consequences within the theoretical context of deployment, and proposes
 ideal practices to reduce such issues.
 
+You can read the full paper [here](https://upcommons.upc.edu/handle/2117/425870).
+
+
 ### **Folder description**
 - **Dataset**: This folder contains the [HateXplain](https://github.com/hate-alert/HateXplain) dataset.
 - **code**: This folder contains the code files
