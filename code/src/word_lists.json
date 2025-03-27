@@ -1,0 +1,360 @@
+
+{
+"top_off_bbase" : [
+    "oreo",
+    "mumbles",
+    "moots",
+    "kike",
+    "multifandom",
+    "kafir",
+    "hoes",
+    "lebron",
+    "avocados",
+    "bluetooth",
+    "carmelo",
+    "tiki",
+    "retarded",
+    "yadi",
+    "edgelords"
+],
+
+
+"top_hs_bbase" : [
+    "beaners",
+    "goatfuckers",
+    "kike",
+    "yadi",
+    "topics",
+    "standwith",
+    "replying",
+    "niglets",
+    "aromantic",
+    "nigger",
+    "motherfucker",
+    "beaner",
+    "negresses",
+    "muzzie",
+    "raghead"
+],
+
+
+"top_nor_bbase" : [
+    "goatfuckers",
+    "vitriol",
+    "oreo",
+    "moots",
+    "multifandom",
+    "aromantic",
+    "standwith",
+    "niggerish",
+    "nigress",
+    "bluetooth",
+    "kashmirs",
+    "tiki",
+    "kafir",
+    "foolish",
+    "bike"
+],
+
+"top_nor_pos_bbase": [
+    "bike",
+    "rey",
+    "accent",
+    "polish",
+    "dial",
+    "exams",
+    "gies",
+    "dresses",
+    "partridge",
+    "culturally",
+    "sherry",
+    "hbo",
+    "valerie",
+    "nude",
+    "cathy"
+],
+
+
+"all_influential_bbase" : [
+    "goatfuckers",
+    "vitriol",
+    "niggerish",
+    "kashmirs",
+    "foolish",
+    "bike",
+    "beaners",
+    "topics",
+    "standwith",
+    "replying",
+    "niglets",
+    "aromantic",
+    "nigger",
+    "nigress",
+    "motherfucker",
+    "beaner",
+    "negresses",
+    "muzzie",
+    "raghead",
+    "oreo",
+    "mumbles",
+    "moots",
+    "kike",
+    "multifandom",
+    "kafir",
+    "hoes",
+    "lebron",
+    "avocados",
+    "bluetooth",
+    "carmelo",
+    "tiki",
+    "retarded",
+    "yadi",
+    "edgelords"
+],
+
+"intersection_bbase" : [
+    "kike",
+    "nigger",
+    "retarded"
+],
+
+
+"common" : [
+    "white",
+    "like",
+    "nigger",
+    "people",
+    "women",
+    "kike",
+    "jews",
+    "ghetto",
+    "fucking",
+    "retarded",
+    "one",
+    "black",
+    "muslim",
+    "fuck",
+    "hate"
+],
+
+"top_off_roberta" : [
+    "partys",
+    "noon",
+    "uplifting",
+    "retarded",
+    "retard",
+    "agains",
+    "retards",
+    "muslimes",
+    "brighton",
+    "tradition",
+    "transgenderism",
+    "barely",
+    "coherent",
+    "listing",
+    "defame"
+],
+
+
+"top_hs_roberta" : [
+    "beaners",
+    "mudslimes",
+    "goatfuckers",
+    "niglets",
+    "faggotry",
+    "kike",
+    "nigger",
+    "beaner",
+    "chink",
+    "niglet",
+    "negresses",
+    "spic",
+    "niggers",
+    "muzzies",
+    "camel"
+],
+
+"top_nor_roberta" : [
+    "goatfuckers",
+    "vitriol",
+    "muslimes",
+    "partys",
+    "beaners",
+    "mudslimes",
+    "noon",
+    "nails",
+    "uplifting",
+    "negresses",
+    "tradition",
+    "listing",
+    "anglin",
+    "faggotry",
+    "tommy"
+],
+
+
+"top_nor_pos_roberta": [
+    "noon",
+    "listing",
+    "dorothy",
+    "culturally",
+    "malaysia",
+    "experiences",
+    "stage",
+    "subtweeting",
+    "lighting",
+    "victimized",
+    "eddie",
+    "insufferable",
+    "hex",
+    "cookie",
+    "complained"
+],
+
+
+"all_influential_roberta" : [
+    "vitriol",
+    "nails",
+    "anglin",
+    "tommy",
+    "beaners",
+    "mudslimes",
+    "goatfuckers",
+    "niglets",
+    "faggotry",
+    "kike",
+    "nigger",
+    "beaner",
+    "chink",
+    "niglet",
+    "negresses",
+    "spic",
+    "niggers",
+    "muzzies",
+    "camel",
+    "partys",
+    "noon",
+    "uplifting",
+    "retarded",
+    "retard",
+    "agains",
+    "retards",
+    "muslimes",
+    "brighton",
+    "tradition",
+    "transgenderism",
+    "barely",
+    "coherent",
+    "listing",
+    "defame"
+],
+
+"intersection_roberta" : [
+    "kike",
+    "nigger",
+    "retarded"
+],
+
+"black_target_roberta" : [
+    "black",
+    "nigger",
+    "niglets",
+    "niglet",
+    "negresses",
+    "niggers",
+    "noon"
+],
+
+"black_target_no_nigger_roberta" : [
+    "black",
+    "niglets",
+    "niglet",
+    "negresses",
+    "niggers",
+    "noon"
+],
+
+"hispanic_target_roberta" : [
+    "beaners",
+    "beaner",
+    "spic"
+],
+
+
+"jewish_target_roberta" : [
+    "kike",
+    "jews"
+    
+],
+
+"muslim_target_roberta" : [
+    "mudslimes",
+    "muslim",
+    "muzzies",
+    "muslimes"
+    
+],
+
+"disabilities_target_roberta" : [
+    "retarded",
+    "retard",
+    "retards"
+],
+
+"lgtb_target_roberta" : [
+    "faggotry",
+    "transgenderism"
+],
+
+"black_target_bbase" : [
+    "black",
+    "nigger",
+    "niglets",
+    "negresses",
+    "oreo",
+    "niggerish",
+    "niggress",
+    "kafir"
+],
+
+"black_target_no_nigger_bbase" : [
+    "black",
+    "niglets",
+    "negresses",
+    "oreo",
+    "niggerish",
+    "niggress",
+    "kafir"
+],
+
+"jewish_target_bbase" : [
+    "kike",
+    "jews"
+    
+],
+
+"disabilities_target_bbase" : [
+    "retarded"
+],
+
+"woman_target_bbase" : [
+    "women",
+    "motherfucker",
+    "tiki",
+    "moots",    
+    "hoes"
+],
+
+"hispanic_target_bbase" : [
+    "beaners",
+    "beaner",
+    "avocados"
+],
+
+"muslim_target_bbase" : [
+    "muslim",
+    "muzzie",
+    "raghead"
+]
+
+}

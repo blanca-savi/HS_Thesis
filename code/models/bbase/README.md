@@ -1,0 +1,1 @@
+The BERT-base model with an expanded vocabulary in the tokenizer is also called "blancasavi/bbase\_sandy" on huggingface. The BERT-base model fine-tuned without an expanded vocabulary is also called "blancasavi/bert\_base\_pious" on Huggingface. The settings have been adjusted so that access requests are automatically approved.

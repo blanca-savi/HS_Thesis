@@ -1,0 +1,22 @@
+program: bert_ft2_sweep.py
+method: bayes
+metric:
+  goal: maximize
+  name: validation/f1
+parameters:
+  lr:
+    distribution: uniform
+    min: 5e-7
+    max: 0.00002
+  epochs:
+    distribution: int_uniform
+    min: 4
+    max: 16
+  batch_size:
+    min: 4
+    max: 12
+
+
+
+
+

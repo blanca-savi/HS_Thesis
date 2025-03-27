@@ -1,0 +1,29 @@
+name: hs_thesis
+
+channels:
+  - conda-forge
+  - defaults
+  - pytorch
+  - nvidia
+
+dependencies:
+  - python=3.12.2
+  - pip=23.3.1
+  - datasets
+  - scikit-learn=1.4.2
+  - pytorch::pytorch
+  - pytorch-cuda=12.1
+  - pytorch::torchvision
+  - jupyter
+  - wandb
+  - matplotlib
+  - numpy
+  - pandas
+  - scipy
+  - seaborn
+  - xgboost
+  - shap
+  - tqdm
+  - nltk
+  - pip:
+    - transformers[torch]==4.40.2
